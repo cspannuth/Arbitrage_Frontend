@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 One common issue among just about every person who indulges themselves with gambling is **losing**. 
 What if there was a way to gaurantee that a player can always beat the sportsbook? That is where 
@@ -15,7 +15,7 @@ incorporates it!
 
 ---
 
-## 🚀 Features
+## Features
 - React based interactive website with full backend incorporation
 - Live API processing from the backend
     - Includes user specific filtering 
@@ -26,7 +26,7 @@ incorporates it!
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 - JavaScript
@@ -42,7 +42,7 @@ incorporates it!
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 Architecture:
 - Mandatory checks and fallback for user authentication
@@ -50,7 +50,7 @@ Architecture:
 - Separated into a scalabale file structure
 - Ran with npm development for testing purposes
   
-## 👤 Author
+## Author
 
 William Spannuth 
 
